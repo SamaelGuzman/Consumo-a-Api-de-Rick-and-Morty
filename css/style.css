@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Phudu:wght@300&family=Tilt+Prism&display=swap');
+body {
+    
+    background-color: papayawhip;
+     
+}
+.titulo {
+    text-align: center;
+    font-size: 55px;
+    font-family: 'Tilt Prism', cursive;
+}
+ 
+
+.card {
+    width: 300px;
+    height: 530px;
+    background-color: rosybrown;
+    padding: 10px;
+    margin: 20px;
+    font-family: 'Phudu', cursive;
+     
+    
+
+}
+
+.card img {
+    width: 100%;
+    height: 85%;
+}
+ 
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    }
+    
+  
